@@ -1,5 +1,5 @@
-# Jlib
-JLib is a basic classifier and regression library created to test implementations of basic learning algorithms.The classification is carried out by 3-layered neural network with user defined number of nodes in all three layers(Though neural network can also be used for regression).The regression part is carried by linear regression with squared-error cost function.Cost function v iteration can also be plotted.
+# Ylib
+YLib is a basic classifier and regression library created to test implementations of basic learning algorithms.The classification is carried out by 3-layered neural network with user defined number of nodes in all three layers(Though neural network can also be used for regression).The regression part is carried by linear regression with squared-error cost function.Cost function v iteration can also be plotted.
 
 This implemenation contains 4 files along with data files.The files `LinearRegression.py` and `NeuralNetwork.py` consists the core regression and classification logics respectively while the files `LinRegDriver.py` and `NNdriver.py` deals with testing these implementations.
 
